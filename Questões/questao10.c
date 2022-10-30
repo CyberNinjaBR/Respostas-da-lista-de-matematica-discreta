@@ -359,4 +359,5 @@ int main()
     {
         printf("Não possuí solução\n");
     }
+    return 0;
 }
