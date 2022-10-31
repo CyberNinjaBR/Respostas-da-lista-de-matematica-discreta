@@ -1,6 +1,11 @@
 # Respostas-da-lista-de-matematica-discreta
  Respostas da lista proposta em sala de aula
 
+Alunos:
+Júlia Gonçalves dos Santos
+Leonardo Lima Barbosa Pereira
+Matheus Almeida Souza
+Ricardo Pinto Cardoso Júnior
 
 1. Escrever um programa que determina se um dado número inteiro é primo ou não.
 
